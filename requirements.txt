@@ -1,1 +1,8 @@
-
+streamlit>=1.0.0
+matplotlib
+seaborn
+pandas
+openpyxl
+statsmodels
+scikit-learn
+scipy
